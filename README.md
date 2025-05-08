@@ -1,7 +1,4 @@
 # lost_found
-
-A new Flutter project.
-
 Group #4 Assignment 2
 
 Bilal Shakeel (21K-4874)
