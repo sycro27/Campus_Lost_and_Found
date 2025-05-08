@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+Group #4 Assignment 2
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Bilal Shakeel (21K-4874)
+Taha Majeed Khan (21K-3316)
+Shayan Anwer (21K-4836)
+Muneeb Azeem (21K-3167)
