@@ -1,21 +1,40 @@
 {
   "project_info": {
-    "project_number": "1036864525896",
-    "project_id": "lostfound-9c8e2",
-    "storage_bucket": "lostfound-9c8e2.firebasestorage.app"
+    "project_number": "906515444102",
+    "project_id": "lost-and-found-app-dc139",
+    "storage_bucket": "lost-and-found-app-dc139.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1036864525896:android:f4647f70b16b1eb6f9aa7d",
+        "mobilesdk_app_id": "1:906515444102:android:e6d69497a84ddd57303c07",
         "android_client_info": {
-          "package_name": "com.example.lost_found"
+          "package_name": "lost_and_found.app"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDKs_n7jLs-qHFKATC85YoV9rSFpHb9kYo"
+          "current_key": "AIzaSyDdlQc8r3iP4S1Uqm-TgzFZM-Dpbre_JvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906515444102:android:dc01458b97428f3e303c07",
+        "android_client_info": {
+          "package_name": "smd.lost.found"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdlQc8r3iP4S1Uqm-TgzFZM-Dpbre_JvY"
         }
       ],
       "services": {
